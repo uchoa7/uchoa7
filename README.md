@@ -1,9 +1,13 @@
 # 💻 Olá, eu sou o Kaique Uchôa!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIP (conclusão em 2025).
+
 👨‍💻 Apaixonado por programação e tecnologia, buscando me especializar como desenvolvedor full stack.
+
 📚 Atualmente desenvolvendo meu TCC na área de Engenharia de Software, Banco de Dados e UX/UI.
+
 🎨 Experiência com Figma, UI/UX Design e boas práticas de usabilidade e acessibilidade.
+
 💼 Também atuo como empreendedor no setor de serviços de estética.
 
 # 🚀 Tecnologias e Ferramentas
